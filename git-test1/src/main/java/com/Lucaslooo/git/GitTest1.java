@@ -12,5 +12,6 @@ public class GitTest1 {
         System.out.println("9999999999");
         System.out.println("123456");
         System.out.println("new new new");
+        System.out.println("pull pull pull");
     }
 }
